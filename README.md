@@ -9,3 +9,4 @@ super 1.1
 super 1.2
 
 super 2.1
+super 2.2
